@@ -25,7 +25,7 @@ import com.microsoft.appcenter.appium.EnhancedIOSDriver;
 import org.junit.rules.TestWatcher;
 import org.junit.Rule;
 
-public class MainClass {
+public class MainTest {
 
     @Rule
     public TestWatcher watcher = Factory.createWatcher();
